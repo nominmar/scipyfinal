@@ -16,3 +16,5 @@ The flowchart below contains the logic of the code.
 The script is organized into functions. 
 Names of the functions, inputs and brief descriptions are in the flowchart. 
 In the code, each function is preceded by a markup cell that explains it's purpose. Also, there are in-line comments for more detail.
+
+![alt text](https://github.com/nominmar/scipyfinal/blob/main/Flowchart.png?raw=true)
